@@ -1,4 +1,6 @@
 2.txt added in feature2 branch
 I am modifying the 2.txt file.
 webdriver driver = new firefoxDriver();
+WebDriver driver = new ChromeDriver();
 Please take latest file
+
